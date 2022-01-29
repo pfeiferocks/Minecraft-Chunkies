@@ -2,9 +2,13 @@
  Minecraft 1.18.1 Forge Modpack
 
 Mods:
+-  appleskin-forge-mc1.18-2.3.0.jar
+-  architectury-3.4.9.jar
 -	balm-2.4.1+0.jar
 -	ChiselsBits-forge-1.18.1-1.2.77-universal.jar
+-  cloth-config-6.1.50-forge.jar
 -  create-mc1.18.1_v0.4d.jar
+-  CTM-1.18-1.1.3+1.jar
 -	elevatorid-1.18-1.8.3.jar
 -	FastFurnace-1.18.1-6.0.1.jar
 -	FastLeafDecay-27.2.jar
@@ -15,6 +19,8 @@ Mods:
 -	jei-1.18.1-9.2.1.69.jar
 -	journeymap-1.18.1-5.8.0beta11.jar
 -	JustEnoughResources-1.18.1-0.13.1.141.jar
+-  light-overlay-6.0.4-forge.jar
+-  MouseTweaks-forge-mc1.18-2.21.jar
 -	netherportalfix-forge-1.18-9.0.0.jar
 -	Placebo-1.18.1-6.0.5.jar
 -	rechiseled-1.0.8-mc1.18.jar
