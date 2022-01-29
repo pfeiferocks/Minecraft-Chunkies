@@ -4,10 +4,12 @@
 Mods:
 -	balm-2.4.1+0.jar
 -	ChiselsBits-forge-1.18.1-1.2.77-universal.jar
+-  create-mc1.18.1_v0.4d.jar
 -	elevatorid-1.18-1.8.3.jar
 -	FastFurnace-1.18.1-6.0.1.jar
 -	FastLeafDecay-27.2.jar
 -	FastWorkbench-1.18.1-6.0.0.jar
+-  flywheel-forge-1.18-0.6.0.jar
 -	furniture-7.0.0-pre28-1.18.1.jar
 -	inventorysorter-1.18-19.0.0.jar
 -	jei-1.18.1-9.2.1.69.jar
