@@ -1,0 +1,38 @@
+
+#Lobby
+["Default Dimension"]
+	defaultDimension = "minecraft:overworld"
+	defaultUseCustomSpawnPoint = false
+	#Range: -1000 ~ 1000
+	defaultSpawnPointX = 68
+	#Range: -1000 ~ 1000
+	defaultSpawnPointY = 65
+	#Range: -1000 ~ 1000
+	defaultSpawnPointZ = -89
+
+["Lobby Dimension"]
+	lobbyDimension = "lobby:lobby_dimension"
+	lobbyUseCustomSpawnPoint = true
+	#Range: -1000 ~ 1000
+	lobbySpawnPointX = 0
+	#Range: -1000 ~ 1000
+	lobbySpawnPointY = 11
+	#Range: -1000 ~ 1000
+	lobbySpawnPointZ = 0
+	#List of builders which are automatically switched to the creative mode inside the lobby dimension.
+	lobbyBuilderList = [""]
+
+["Mining Dimension"]
+	miningDimension = "lobby:mining_dimension"
+	miningDisableMobSpawning = false
+	miningDisableBatSpawning = false
+	miningDisableMinecartChestSpawning = false
+	miningRemoveSpawner = true
+	miningUseCustomSpawnPoint = true
+	#Range: -1000 ~ 1000
+	miningSpawnPointX = 200
+	#Range: -1000 ~ 1000
+	miningSpawnPointY = 11
+	#Range: -1000 ~ 1000
+	miningSpawnPointZ = 558
+
