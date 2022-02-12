@@ -28,10 +28,16 @@
     "denied": [],
     "preserve": false,
     "ignoreTools": false,
-    "requireEnchant": false,
     "damageMultiplicand": 1.0,
     "damageRounding": "ROUND_DOWN",
     "speedMultiplicand": 0.0
+  },
+  "player": {
+    "allowedTags": []
+  },
+  "enchantment": {
+    "registerEnchant": false,
+    "hideEnchant": false
   },
   "reverseSneaking": false,
   "breakInCreative": false,
